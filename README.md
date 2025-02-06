@@ -15,8 +15,6 @@ To run this project, install the required dependencies:
 pip install tensorflow numpy pandas matplotlib seaborn scikit-learn scikit-image
 ```
 
-## Dataset
-Ensure the dataset is available in the expected format before running the notebook. The dataset should contain images categorized into "Mask" and "No Mask".
 
 ## Model
 The model is built using CNN and consists of multiple layers, including:
